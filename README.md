@@ -13,3 +13,5 @@ git commit --m  "açıklama"
 git push origin main
 ## eklediğim açıklamanın id sini görüntüleyip kontrol ettim
 git log
+
+deneme
