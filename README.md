@@ -15,3 +15,5 @@ git push origin main
 git log
 ## Klasör ve içindekileri silme
 git rm -r test/
+## Klasör taşıma işlemi
+git mv deneme1.txt deneme/
