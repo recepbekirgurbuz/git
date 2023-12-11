@@ -1,19 +1,19 @@
 # Git
 ## Dosyası oluşturdum
-git init
+- git init
 ## Branch oluşturdum
-git branch -M main
+- git branch -M main
 ## Durumu sorguladım 
-git status
+- git status
 ## Github'a yüklemek itediğim dosyayı seçtim
-git add file.html
+- git add file.html
 ## Dosyaya açıklama ekledim
-git commit --m  "açıklama"
+- git commit --m  "açıklama"
 ## dosyayı push komutu ile upload ettim
-git push origin main
+- git push origin main
 ## eklediğim açıklamanın id sini görüntüleyip kontrol ettim
-git log
+- git log
 ## Klasör ve içindekileri silme
-git rm -r test/
+- git rm -r test/
 ## Klasör taşıma işlemi
-git mv deneme1.txt deneme/
+- git mv deneme1.txt deneme/
